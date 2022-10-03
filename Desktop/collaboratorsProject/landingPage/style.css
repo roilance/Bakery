@@ -1,0 +1,30 @@
+
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-size: 3em;
+}
+
+.component{
+    margin: 0;
+    padding: 0;
+}
+
+.login-component{
+    height: 100vh;
+    background-color: gray;
+    
+}
+
+
+.menu-component{
+    height: 100vh;
+    background-color: rgb(105, 77, 77);
+}
+
+
+.testimony-component{
+    height: 100vh;
+    background-color: rgb(201, 124, 124);
+}
